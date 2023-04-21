@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AbdulrhmanBashammmakh
-- 👀 I’m interested in C# , Java , JavaScript , Dart.
+- 👀 I’m interested in C# , Java , JavaScript/TypeScript and Dart.
 - 🌱 I’m currently learning Spring boot , Next js , Flutter and Angular .
 - ✨ I want to improve my skills , experience and Knowledge . 
-- 👀 It's a time to become a  Enterprise Application Developer   .
+- 👀 It's a time to become a  Enterprise Application Developer.
 
 
 
